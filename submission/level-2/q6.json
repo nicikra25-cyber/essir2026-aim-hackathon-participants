@@ -1,1 +1,43 @@
-{}
+{
+  "question_id": "q1bf20a",
+  "level": 2,
+  "question": "And how is it solved?",
+  "answer": "Organizations can manage these forces by utilizing management accounting practices, which provide intelligence on customers and competitors. This enables informed decision-making regarding the competitive environment to mitigate detrimental effects and enhance organizational performance and competitive advantage.",
+  "conversation_id": "level-2",
+  "sources": [
+    {
+      "page": 6,
+      "quote": "In particular, we maintain that through providing information which enhances an organisation’s understanding of their competitive forces, and which informs decision making in respect to the man­ agement of such forces, management accounting practices will positively moderate the association between the intensity of competitive forces with organisational per­ formance and competitive advantage.",
+      "score": 0.9868
+    },
+    {
+      "page": 5,
+      "quote": "The effect of Porter’s competitive forces on competitive advantage and… 307 research, in particular the emerging line of research on the strategic role of manage­ ment accounting practices, by informing practitioners of the appropriate management accounting practices to deploy in different circumstances in order to enhance the effects of the intensity of competitive forces.",
+      "score": 0.9865
+    },
+    {
+      "page": 7,
+      "quote": "In particular, through providing organisations with intelligence on their customers (Liu & Atuahene-Gima, 2018) and competitors (Kohli & Jaworski, 1990), contemporary management accounting practices assist in enabling organisations to manage the intensity of competitive forces.",
+      "score": 0.9863
+    },
+    {
+      "page": 21,
+      "quote": "These findings contribute to the literature by providing an empirical insight into the theoretical role of a specific internal mechanism, the extent of use of manage­ ment accounting practices, in managing the effects of competitive forces within an organisation.",
+      "score": 0.9825
+    },
+    {
+      "page": 22,
+      "quote": "Overall, this study makes a significant contribution to the literature on competitive forces and management accounting by highlighting the important role of manage­ ment accounting practices in coping with industry competitive pressures to enhance competitive advantage and organisational performance.",
+      "score": 0.9675
+    }
+  ],
+  "diagnostics": {
+    "provider": "lmstudio",
+    "chat_model": "google/gemma-4-e4b",
+    "embedding_model": "intfloat/multilingual-e5-large",
+    "retrieved_chunks": 5,
+    "tokens": null,
+    "latency_ms": 41193,
+    "timestamp": "2026-07-31T06:30:34Z"
+  }
+}

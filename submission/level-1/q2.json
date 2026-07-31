@@ -1,1 +1,38 @@
-{}
+{
+  "question_id": "qb9a926",
+  "level": 1,
+  "question": " Which two organisational outcomes did the researchers use to assess whether firms were performing successfully against their competitors?",
+  "answer": "The two organizational outcomes the researchers used were **organisational performance** and **competitive advantage**.",
+  "conversation_id": "level-1",
+  "sources": [
+    {
+      "page": 20,
+      "quote": "5 Discussion and conclusion This study sought to provide empirical insights into the effect of the intensity of competitive forces on the two organisational outcomes commonly associated with Porter’s (1979) competitive forces, organisational performance and competitive advantage (Marin-Cadavid & Garcia, 2016; Porter, 2008).",
+      "score": 0.9351
+    },
+    {
+      "page": 2,
+      "quote": "The first objective of this study is to contribute to this literature by examining the association between the collective strength of the five competitive forces, referred to in this study as the intensity of competitive forces, and the two organisational outcomes commonly associated with Porter’s competitive forces: organisational per­ formance and competitive advantage (Marin-Cadavid & Garcia, 2016; Porter, 2008).",
+      "score": 0.9344
+    },
+    {
+      "page": 2,
+      "quote": "An organisation achieves competitive advantage when they are more successful than their current and potential rivals (Schilke, 2014) and therefore, we measure competitive advantage using Schilke’s (2014) measure, which focuses on an organisations’ performance in respect to market share, earnings before interest and taxes, return on investment and return on sales relative to the industry average.",
+      "score": 0.7832
+    },
+    {
+      "page": 4,
+      "quote": "1, the study provides an empirical insight into the association between the intensity of competitive forces with organisational outcomes (organisational performance and competitive advantage) and the moderating role of the package of management accounting practices (contemporary and traditional) on those associations.",
+      "score": 0.7234
+    }
+  ],
+  "diagnostics": {
+    "provider": "lmstudio",
+    "chat_model": "google/gemma-4-e4b",
+    "embedding_model": "intfloat/multilingual-e5-large",
+    "retrieved_chunks": 5,
+    "tokens": null,
+    "latency_ms": 20952,
+    "timestamp": "2026-07-31T06:08:14Z"
+  }
+}

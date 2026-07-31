@@ -1,1 +1,33 @@
-{}
+{
+  "question_id": "qb20b08",
+  "level": 3,
+  "question": "How did the moderating effect of contemporary management accounting practices differ between the overall sample and the low-cost/high-force and product-differentiation/high-force groups?",
+  "answer": "The moderating effects of contemporary management accounting practices differed across the groups as follows:\n\n*   **Overall Sample:** The use of contemporary management accounting practices did not moderate the effect of the intensity of competitive forces on organizational performance or competitive advantage, leading to the rejection of H2.\n*   **Low-Cost/High-Force Group:** A moderating effect was found between the intensity of competitive forces and competitive advantage ($\\beta = 0.784, p = 0.010$).\n*   **Product-Differentiation/High-Force Group:** There is evidence that the use of contemporary management accounting practices positively moderates the association between the intensity of competitive forces and organizational performance ($\\beta = 0.978, p = 0.043$).",
+  "conversation_id": "level-3",
+  "sources": [
+    {
+      "page": 18,
+      "quote": "Comparison label: compare_1__overall_sample Comparison item: overall sample Compared attribute: moderating effect of contemporary management accounting practices Item-specific evidence: In respect to the hypothesised moderating effects, the initial ‘overall sample’ model in Table 5 shows that the use of contemporary management accounting practices did not moderate the effect of the intensity of competitive forces on organisational performance or competitive advantage and hence, H2 is rejected.",
+      "score": 0.9895
+    },
+    {
+      "page": 20,
+      "quote": "Comparison label: compare_2__low_cost_high_force_group Comparison item: low-cost/high-force group Compared attribute: moderating effect of contemporary management accounting practices Item-specific evidence: between the intensity of competitive forces and competitive advantage in the low-cost/high force model (β = 0.784, p = 0.010).",
+      "score": 0.9405
+    },
+    {
+      "page": 20,
+      "quote": "Comparison label: compare_3__product_differentiation_high_force_group Comparison item: product-differentiation/high-force group Compared attribute: moderating effect of contemporary management accounting practices Item-specific evidence: there is evidence that the use of contempo rary management accounting practices positively moderates the association between the intensity of competitive forces and organisational performance in the product- differentiation/high-force (β = 0.978, p = 0.043) model",
+      "score": 0.9436
+    }
+  ],
+  "diagnostics": {
+    "provider": "lmstudio",
+    "chat_model": "google/gemma-4-e4b",
+    "embedding_model": "intfloat/multilingual-e5-large",
+    "retrieved_chunks": 3,
+    "tokens": null,
+    "latency_ms": 46036,
+    "timestamp": "2026-07-31T06:44:01Z"
+  }
+}

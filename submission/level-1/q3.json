@@ -1,1 +1,38 @@
-{}
+{
+  "question_id": "qe111d8",
+  "level": 1,
+  "question": "How many completed survey responses were included in the final analysis?",
+  "answer": "A total of 505 complete responses were available for data analysis.",
+  "conversation_id": "level-1",
+  "sources": [
+    {
+      "page": 9,
+      "quote": "However, as speeder checks removed 10 of these and a further 33 were removed due to repetitive responses, 505 complete responses were available for data analysis (i.e. a response rate of 43.53%).",
+      "score": 0.8957
+    },
+    {
+      "page": 27,
+      "quote": "Funding Open Access funding enabled and organized by CAUL and its Member Institutions Data availability The datasets generated during and/or analysed during the current study are available from the corresponding author on reasonable request.",
+      "score": 0.8771
+    },
+    {
+      "page": 9,
+      "quote": "The survey questionnaire was administered by Qualtrics, a data collection company with global outreach and experience in data collection management.",
+      "score": 0.865
+    },
+    {
+      "page": 14,
+      "quote": "The extent of use of contemporary management accounting practices was assessed in respect to the extent of use of use of eight contemporary management accounting practices (see Appendix B) using anchors of “Not at all” and “To a great extent”.",
+      "score": 0.8644
+    }
+  ],
+  "diagnostics": {
+    "provider": "lmstudio",
+    "chat_model": "google/gemma-4-e4b",
+    "embedding_model": "intfloat/multilingual-e5-large",
+    "retrieved_chunks": 5,
+    "tokens": null,
+    "latency_ms": 32195,
+    "timestamp": "2026-07-31T06:10:47Z"
+  }
+}

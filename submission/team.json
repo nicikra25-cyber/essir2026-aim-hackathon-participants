@@ -1,7 +1,10 @@
 {
-  "team_name": "",
+  "team_name": "Bayes Retriever",
   "members": [
-    { "name": "", "email": "" }
+    {
+      "name": "Nicole Kraemer",
+      "email": "Nicole.Kraemer@citystgeorges.ac.uk"
+    }
   ],
-  "repo_url": ""
+  "repo_url": "https://github.com/nicikra25-cyber/essir2026-aim-hackathon-participants"
 }

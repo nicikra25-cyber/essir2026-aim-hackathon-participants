@@ -1,1 +1,33 @@
-{}
+{
+  "question_id": "q32b470",
+  "level": 3,
+  "question": "The literature review argues that management accounting practices can help organisations cope with competitive forces. What evidence from Table 5 and the results section supports this argument for traditional management accounting practices?",
+  "answer": "Management accounting practices can help organizations cope with competitive forces by providing information that enhances an organization’s understanding of its competitive forces and informs decision-making regarding the management of those forces.\n\nSpecific evidence supporting this argument includes:\n\n**Table 5:**\n*   The interaction between the intensity of competitive forces and traditional management accounting practices regarding Competitive advantage showed an overall sample result with a coefficient of 0.154 and a p-value of 0.028, which was statistically significant (*).\n\n**Results Interpretation:**\n*   The use of traditional management accounting practices positively moderates the association between the intensity of competitive forces and competitive advantage (β = 0.154, p = 0.028), providing partial support for the hypothesis regarding this relationship.",
+  "conversation_id": "level-3",
+  "sources": [
+    {
+      "page": 6,
+      "quote": "In particular, we maintain that through providing information which enhances an organisation’s understanding of their competitive forces, and which informs decision making in respect to the man agement of such forces, management accounting practices will positively moderate the association between the intensity of competitive forces with organisational per formance and competitive advantage.",
+      "score": 1.0
+    },
+    {
+      "page": 17,
+      "quote": "Column label: Product differentiation / Low-force; coefficient=-0.143; p_value=0.589 Overall-sample result: coefficient=0.082; p_value=0.306 Same-row overall-sample statistic: 0.082 (0.306) Intensity of competitive forces × Traditional management accounting practices → Competitive advantage 0.154 0.189 0.147 -0.501 0.181 (0.028) * (0.679) (0.428) (0.236) (0.446)",
+      "score": 0.96
+    },
+    {
+      "page": 18,
+      "quote": "However, Table 5 shows that the use of traditional management accounting positively moderates the association between the intensity of competitive forces and competitive advantage (β = 0.154, p = 0.028) and hence, partial support is provided for H3.",
+      "score": 0.972
+    }
+  ],
+  "diagnostics": {
+    "provider": "lmstudio",
+    "chat_model": "google/gemma-4-e4b",
+    "embedding_model": "intfloat/multilingual-e5-large",
+    "retrieved_chunks": 6,
+    "tokens": null,
+    "latency_ms": 65982,
+    "timestamp": "2026-07-31T06:40:08Z"
+  }
+}

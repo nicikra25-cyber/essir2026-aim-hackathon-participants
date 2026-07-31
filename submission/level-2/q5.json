@@ -1,1 +1,43 @@
-{}
+{
+  "question_id": "q4fbbb4",
+  "level": 2,
+  "question": " Why does that happen?",
+  "answer": "Intense competitive forces create problems for an organization because:\n\n*   The strength of these forces determines how the economic value created by the industry is divided among various stakeholders (customers, suppliers, substitutes, and potential new entrants).\n*   When there is a high threat of substitutes, organizations are forced to incur extra costs through product enhancements and/or marketing campaigns while their ability to influence selling prices is limited.\n*   Ultimately, all five forces are expected to have a detrimental effect on the profitability and competitiveness of both the industry and individual organizations, leading to greater competitive intensity that limits potential benefits.",
+  "conversation_id": "level-2",
+  "sources": [
+    {
+      "page": 2,
+      "quote": "86) stating that “the strength of the five competi­ tive forces determines the industry’s long-run profit potential because it determines how the economic value created by the industry is divided– how much is retained by companies in the industry versus bargained away by customers and suppliers, limited by substitutes, or constrained by potential new entrants”.",
+      "score": 0.9843
+    },
+    {
+      "page": 5,
+      "quote": "In particular, as all five forces are expected to have a detrimental effect on the profitability and competi­ tiveness of an industry and individual organisations, it is expected that greater com­ petitive intensity will limit the potential to obtain such benefits (Barba-Sánchez et al., 2018).",
+      "score": 0.9666
+    },
+    {
+      "page": 12,
+      "quote": "Next, we computed the score for each of the five forces as the average score of the items retained, with the intensity of competi­ tive forces then calculated as the average score across these five forces, with higher (lower) scores representing a higher (lower) intensity of competitive forces4.",
+      "score": 0.9285
+    },
+    {
+      "page": 2,
+      "quote": "The focus on the relationship between the intensity of com­ petitive forces and organisational performance is pertinent as Porter (2008) infers that the collective strength of the five forces drives performance, in particular the profitability, of organisations.",
+      "score": 0.7115
+    },
+    {
+      "page": 6,
+      "quote": "Baird et al. intensity of competitive forces is negatively associated with organisational perfor­ mance and competitive advantage2.",
+      "score": 0.7083
+    }
+  ],
+  "diagnostics": {
+    "provider": "lmstudio",
+    "chat_model": "google/gemma-4-e4b",
+    "embedding_model": "intfloat/multilingual-e5-large",
+    "retrieved_chunks": 5,
+    "tokens": null,
+    "latency_ms": 34249,
+    "timestamp": "2026-07-31T06:25:22Z"
+  }
+}

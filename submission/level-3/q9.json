@@ -1,1 +1,28 @@
-{}
+{
+  "question_id": "qa1601f",
+  "level": 3,
+  "question": "What is the paper’s main conclusion about the relationship between competitive forces, management accounting practices, organisational performance, and competitive advantage, and what recommendations do the authors give to managers?",
+  "answer": "The paper's main conclusion is that management accounting practices play an important role in coping with industry competitive pressures to enhance organizational performance and competitive advantage. The effectiveness of these practices is conditional, depending on the unique combination of an organization's prevailing strategy (low-cost or product-differentiation) and the intensity of competitive forces (high or low). Specifically, when the intensity of competitive forces is low, contemporary management accounting practices may inhibit an organization's ability to achieve competitive advantage through product differentiation.\n\nRegarding recommendations for managers, the findings indicate that:\n*   The use of traditional management accounting practices positively moderates the effect of competitive forces on competitive advantage.\n*   Greater competitive intensity focuses managers' attention on using their resources in a way that alleviates pressures and enables them to achieve higher competitive advantage and performance.",
+  "conversation_id": "level-3",
+  "sources": [
+    {
+      "page": 22,
+      "quote": "Synthesis label: synthesis_1__main_conclusion Synthesis component: main_conclusion Requested component: main conclusion about the relationship between competitive forces, management accounting practices, organisational performance, and competitive advantage Component-specific evidence: Overall, this study makes a significant contribution to the literature on competitive forces and management accounting by highlighting the important role of manage ment accounting practices in coping with industry competitive pressures to enhance competitive advantage and organisational performance.",
+      "score": 0.4381
+    },
+    {
+      "page": 1,
+      "quote": "Synthesis label: synthesis_2__recommendations Synthesis component: recommendations Requested component: recommendations do the authors give to managers Condition-specific recommendation evidence: synthesis_2a: Using survey data collected from 505 US-based financial managers, the findings indicate that the use of traditional management accounting practices was found to positively moderate the effect of the intensity of competitive forces on competitive advantage.",
+      "score": 0.6798
+    }
+  ],
+  "diagnostics": {
+    "provider": "lmstudio",
+    "chat_model": "google/gemma-4-e4b",
+    "embedding_model": "intfloat/multilingual-e5-large",
+    "retrieved_chunks": 4,
+    "tokens": null,
+    "latency_ms": 46126,
+    "timestamp": "2026-07-31T06:47:41Z"
+  }
+}

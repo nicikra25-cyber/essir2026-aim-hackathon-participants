@@ -1,1 +1,38 @@
-{}
+{
+  "question_id": "q9395f8",
+  "level": 1,
+  "question": "What are the five competitive forces included in Porter’s Five Forces model?",
+  "answer": "The five competitive forces identified by Porter (1979) are:\n1. The threat of new entrants\n2. The bargaining power of suppliers\n3. The bargaining power of buyers\n4. Rivalry among existing competitors\n5. The threat of substitute products or services",
+  "conversation_id": "level-1",
+  "sources": [
+    {
+      "page": 2,
+      "quote": "Porter (1979) famously claimed that five forces shape the competitive environment of an organisation: the threat of new entrants, the bargain­ ing power of suppliers, the bargaining power of buyers, rivalry among existing com­ petitors, and the threat of substitute products or services.",
+      "score": 0.9638
+    },
+    {
+      "page": 11,
+      "quote": "These items were adapted from Kul­ mia (2014) and developed based on Porter’s (2008) discussion, to reflect the nature of each of the five competitive forces.",
+      "score": 0.9623
+    },
+    {
+      "page": 5,
+      "quote": "2 Literature review and hypotheses development 2.1 Porter’s (1979) competitive forces Porter (1979) developed a competitive forces model to provide a means for industries and organisations to analyse, evaluate, and react to their competitive environment by formulating appropriate strategies and taking appropriate actions to influence and/or mitigate the detrimental effects on their competitive environment.",
+      "score": 0.9621
+    },
+    {
+      "page": 2,
+      "quote": "These five forces combine to shape the industry structure and influence the way organisations compete within an industry, with organisations tending to emphasise Porter’s (1985) cost focus (i.e. low- cost strategy) or differentiation focus (i.e. product-differentiation strategy) generic competitive strategies.",
+      "score": 0.9614
+    }
+  ],
+  "diagnostics": {
+    "provider": "lmstudio",
+    "chat_model": "google/gemma-4-e4b",
+    "embedding_model": "intfloat/multilingual-e5-large",
+    "retrieved_chunks": 5,
+    "tokens": null,
+    "latency_ms": 20501,
+    "timestamp": "2026-07-31T05:59:57Z"
+  }
+}
