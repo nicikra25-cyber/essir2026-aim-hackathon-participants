@@ -20,9 +20,12 @@ dependencies = [
     # not need it — remove it if you only run local models.
     "litellm>=1.44",
     "python-multipart>=0.0.9",
+    "pymupdf>=1.28.0",
+    "pdfplumber>=0.11.0",
 ]
 
-# `uv sync` installs these too; `uv sync --no-dev` skips them (used in the Docker image).
+# `uv sync` installs these too; `uv sync --no-dev` skips them
+# (used in the Docker image).
 [dependency-groups]
 dev = ["ruff>=0.6"]
 

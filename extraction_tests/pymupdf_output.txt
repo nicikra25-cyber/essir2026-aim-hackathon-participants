@@ -1,0 +1,249 @@
+
+================================================================================
+PDF PAGE 2
+================================================================================
+
+304                                                                                                   K. Baird et al.
+
+1  Introduction
+
+Michael Porter’s (1979) ‘How competitive forces shape strategy’ has influenced the
+field of research on competitive forces and the formation and effectiveness of strate­
+gies within organisations. Porter (1979) famously claimed that five forces shape the
+competitive environment of an organisation: the threat of new entrants, the bargain­
+ing power of suppliers, the bargaining power of buyers, rivalry among existing com­
+petitors, and the threat of substitute products or services. These five forces combine
+to shape the industry structure and influence the way organisations compete within an
+industry, with organisations tending to emphasise Porter’s (1985) cost focus (i.e. low-
+cost strategy) or differentiation focus (i.e. product-differentiation strategy) generic
+competitive strategies.
+    It is important to consider the collective strength of the five forces (Ho, 2016; Zhao
+et al., 2016) with Porter (2008, p. 86) stating that “the strength of the five competi­
+tive forces determines the industry’s long-run profit potential because it determines
+how the economic value created by the industry is divided– how much is retained by
+companies in the industry versus bargained away by customers and suppliers, limited
+by substitutes, or constrained by potential new entrants”. Accordingly, many stud­
+ies have focused on Porter’s (1979) Five Forces Model to evaluate the competitive
+structures within specific industries (e.g. Carle et al., 2005; Rajasekar & Al Raee,
+2013; Zhao et al., 2016) and to assess the competitiveness and profitability of specific
+industries and/or organisations. However, this research has tended to be qualitative in
+nature and emphasised case study analysis, with the limited empirical studies which
+have considered the effect of Porter’s competitive forces on organisational outcomes
+(Barba-Sánchez et al., 2018) finding that stronger competitive forces inhibit corpo­
+rate performance.
+  The first objective of this study is to contribute to this literature by examining the
+association between the collective strength of the five competitive forces, referred
+to in this study as the intensity of competitive forces, and the two organisational
+outcomes commonly associated with Porter’s competitive forces: organisational per­
+formance and competitive advantage (Marin-Cadavid & Garcia, 2016; Porter, 2008).
+Organisational performance here focuses on the achievement of desired financial and
+non-financial performance outcomes. It is measured based on Kaynak and Kara’s
+(2004) measure and captures the performance outcomes of sales, product quality
+and employee turnover. The focus on the relationship between the intensity of com­
+petitive forces and organisational performance is pertinent as Porter (2008) infers
+that the collective strength of the five forces drives performance, in particular the
+profitability, of organisations. Competitive advantage is defined as “the advantages
+that a business may have over another that are difficult to imitate” (Langfield et al.,
+2018, p. 15). An organisation achieves competitive advantage when they are more
+successful than their current and potential rivals (Schilke, 2014) and therefore, we
+measure competitive advantage using Schilke’s (2014) measure, which focuses on an
+organisations’ performance in respect to market share, earnings before interest and
+taxes, return on investment and return on sales relative to the industry average. We
+focus on the effect of the intensity of competitive forces on competitive advantage
+
+1 3
+
+================================================================================
+PDF PAGE 9
+================================================================================
+
+The effect of Porter’s competitive forces on competitive advantage and…                          311
+
+(Langfied-Smith et al., 2018), thereby enabling managers to respond to and cope with
+the intensity of competitive forces more effectively.
+   Therefore, we argue that traditional management accounting practices will play a
+positive moderating role, enhancing an organisations’ ability to cope with the inten­
+sity of competitive forces in a way which can enhance both their competitiveness (i.e.
+competitive advantage) and profitability. Specifically, it is expected that there will
+be a stronger (weaker) association between the intensity of competitive forces with
+organisational outcomes (competitive advantage and organisational performance)
+when there is a higher (lower) extent of use of traditional management accounting
+practices. Therefore, we hypothesise the following:
+
+  Hypothesis 3  The extent of use of traditional management accounting prac­
+   tices positively moderates the association between the intensity of competitive
+   forces and organisational outcomes (competitive advantage and organisational
+   performance).
+
+
+3  Method
+
+Data were collected using the survey research method which is commonly used in
+management accounting research (Baird et al., 2019; Chenhall, 2012; Nuhu et al.,
+2017; Su et al., 2017). This method enabled us to obtain data from a large sample
+of practitioners, thereby enhancing the generalisability of the results. The survey
+questionnaire was administered by Qualtrics, a data collection company with global
+outreach and experience in data collection management. A sample size of 505 respon­
+dents from the United States was obtained. Following a review of the U.S. Bureau of
+Labor Statistics’ Standard Occupational Classification (SOC) system codes, employ­
+ees classified as 11 3031 Financial Managers were chosen as the ideal respondents
+because of their knowledge of competitive forces, the use of management accounting
+practices, and organisational outcomes (competitive advantage and organisational
+performance). The questionnaire was targeted at large organisations, that is, those
+with 100 or more employees, due to the complexities associated with implementing
+management accounting practices and the commitment of resources required (Heg­
+gen, 2019) i.e. such practices are more likely to be utilised by larger organisations.
+  A total of 1600 potential respondents were contacted with 440 of those deemed
+ineligible to complete the questionnaire as they did not give consent (57), were not
+based in the U.S. (26), were not financial managers (132), or worked in organisa­
+tions with less than 100 employees (225). Of the remaining 1160 contacts, 548
+completed questionnaires were received, a response rate of 47.24%. However, as
+speeder checks removed 10 of these and a further 33 were removed due to repetitive
+responses, 505 complete responses were available for data analysis (i.e. a response
+rate of 43.53%). Table 1 shows that the majority of the responding organisations had
+100–499 employees (52.9%), 135 (26.8%) had 500–999 employees, 78 (15.5%) had
+1000–5000 employees, and only 24 (4.8%) organisations had over 5000 employees.
+As the usefulness of management accounting practices may vary across industries,
+
+                      1 3
+
+================================================================================
+PDF PAGE 16
+================================================================================
+
+318                                                                                                   K. Baird et al.
+
+                                         Low-coststrat­egy                               0.762
+                                                                                                                                                         Differentiationstrategy                                  0.731 0.729
+
+                                                                                                                TraditionalMAPs                             0.721 0.727 0.703
+                                                                                                                          ContemporaryMAPs                        0.735 0.685 0.692 0.641 construct
+                                                                                     each
+                                                                for
+                                                                                                                               scores                                                                                                                Competitiveadvantage                   0.736 0.630 0.605 0.604 0.563
+                                                                                                                                                                                               extracted
+                                                                                                                                                                         variance
+                                                                                                                                                    average                                                                                                                                              Organisationalperformance              0.761 0.681 0.576 0.569 0.535 0.507                                                                the
+                                          of
+                                         com­                                        root
+                    of                                                                  forces                                                                                                                               square                                                       scores
+                                                                the                                                                                            Intensitypetitive         0.854 0.543 0.577 0.618 0.622 0.676 0.663                           AVE
+                  of                                                                                                                                                                                               represent                                     root
+                                                                                     bold                                                       square                      in                                                                                   forces
+                           and                                                                             figures                                                                                                                                                                    performance    MAPs         strategy                                                                                                                                                         competitive          advantage    MAPs                            of                                          strategy diagonal                                                                                                              Correlations
+                  4                                  The                                                   Table                                  Intensity Organisational Competitive Contemporary Traditional Differentiation Low-cost NB
+
+1 3
+
+================================================================================
+PDF PAGE 25
+================================================================================
+
+The effect of Porter’s competitive forces on competitive advantage and…                          327
+
+Rivalry among existing competitors
+
+There is a large number of competitors in our industry.
+   There are no clear leaders in our market† (0.777).
+  The market is growing quickly.
+    It is easy to compete in the industry because of low fixed costs† (0.772).
+   Competition is high, as our products (goods and/or services) are standardised†
+(0.743).
+
+
+Bargaining power of buyers
+
+We have only a few customers, and hence, losing one is critical to our success.
+  We have a limited number of customers whose purchases represent a large propor­
+tion of our total revenue from goods and/or services† (0.820).
+  Our customers have a detailed knowledge of the range of goods and services
+available in the industry.
+   Customers can easily gain access to an equivalent product (goods and/or services).
+    It would be easy for customers to integrate backward in the supply chain, that is,
+source goods and/or services from our suppliers† (0.806).
+    It is easy for customers to switch to access goods and/or services from competi­
+tors† (0.700).
+
+
+Threat of substitute products
+
+Substitute products compare favourably to our products (goods and/or services) on a
+price-performance basis† (0.915).
+   Product diversity in our industry is low.
+  Our customers are amenable to purchasing products (goods and/or services) from
+competitors† (0.781).
+
+
+Threat of new entrants
+
+There are limited incumbent advantages in our industry.
+  Low initial capital investments are required to commence new operations in the
+industry† (0.802).
+  The assets needed to run our organisation’s operations are easily accessible.
+  No specialised knowledge and/or technical expertise is required to commence
+operations in our industry† (0.763).
+  New entrants can easily acquire/obtain customers in our industry† (0.734).
+  New entrants can easily acquire and obtain the inputs required to compete effi­
+ciently in our industry† (0.807).
+
+
+                      1 3
+
+================================================================================
+PDF PAGE 27
+================================================================================
+
+The effect of Porter’s competitive forces on competitive advantage and…                          329
+
+   Finding ways to reduce costs.
+  The level of operating efficiency.
+  The level of production capacity utilization† (0.768).
+   Price competition† (0.738).
+
+
+Product-differentiation strategy
+
+Using new methods and technologies to create superior products† (0.672).
+  New product development† (0.724).
+  The rate of new product introduction to the market.
+  The number of new products offered to the market† (0.761).
+   Intensity of advertising and marketing.
+   Developing and utilizing the sales force† (0.763).
+   Building a strong brand identification.
+
+Acknowledgements  This work was supported by the Institute of Management Accountants (IMA)
+Research Foundation (IRF).
+
+Funding  Open Access funding enabled and organized by CAUL and its Member Institutions
+
+Data availability  The datasets generated during and/or analysed during the current study are available
+from the corresponding author on reasonable request.
+
+Declarations
+
+Conflict of interest  The authors declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this paper.
+
+Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+as you give appropriate credit to the original author(s) and the source, provide a link to the Creative
+Commons licence, and indicate if changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+to the material. If material is not included in the article’s Creative Commons licence and your intended use
+is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission
+directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/
+licenses/by/4.0/.
+
+
+References
+
+Abdel-Kader, M., & Luther, R. (2006). Management accounting practices in the British food and drinks
+      industry. British Food Journal, 108(5), 336–357.
+Agbejule, A., & Huusko, J. (2011). The benefits of management accounting practices in manufacturing
+    and service firms: A Finnish study. International Journal of Services Economics and Management,
+      3(4), 354–375.
+Angelakis, G., Theriou, N., & Floropoulos, I. (2010). Adoption and benefits of management accounting
+      practices: Evidence from Greece and Finland. Advances in Accounting, 26(1), 87–96.
+
+
+                      1 3

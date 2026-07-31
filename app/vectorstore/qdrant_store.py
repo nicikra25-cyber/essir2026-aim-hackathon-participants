@@ -1,7 +1,8 @@
 """A thin wrapper over qdrant-client.
 
-Enough to store chunks and search them. The interesting improvements live in the
-TODO comments — this is a plain single-vector cosine index and nothing more.
+Enough to store chunks and search them. The normal document collection and the
+Level-3 table collection are kept physically separate so table extraction cannot
+affect Level-1 or Level-2 retrieval.
 """
 
 from __future__ import annotations
@@ -28,43 +29,74 @@ class VectorStore:
     def count(self) -> int:
         if not self.exists():
             return 0
-        return self.client.count(self.collection).count
+
+        return self.client.count(
+            collection_name=self.collection,
+            exact=True,
+        ).count
 
     # --- write --------------------------------------------------------------
     def ensure_collection(self, dim: int, reset: bool = False) -> None:
         """Create the collection sized to the embedding dimension.
 
         The vector size is fixed at creation, so if you change embedding models you
-        must re-ingest (or ingest into a differently named collection).
+        must re-ingest or ingest into a differently named collection.
         """
         if reset and self.exists():
             self.client.delete_collection(self.collection)
+
         if not self.exists():
             self.client.create_collection(
                 collection_name=self.collection,
-                vectors_config=models.VectorParams(size=dim, distance=models.Distance.COSINE),
+                vectors_config=models.VectorParams(
+                    size=dim,
+                    distance=models.Distance.COSINE,
+                ),
             )
-            # TODO(level-3): a payload index on e.g. `page` lets you filter searches
-            # (search only the references section, only tables, ...). See
-            # client.create_payload_index(...).
 
     def upsert(self, points: list[models.PointStruct]) -> None:
-        self.client.upsert(collection_name=self.collection, points=points)
+        self.client.upsert(
+            collection_name=self.collection,
+            points=points,
+        )
 
     # --- read ---------------------------------------------------------------
-    def search(self, vector: list[float], top_k: int) -> list[models.ScoredPoint]:
-        # TODO(level-1): plain dense search. Consider hybrid (dense + sparse/BM25),
-        #                which Qdrant supports with named vectors + Query API.
-        # TODO(level-3): pass a query_filter to scope retrieval to part of the doc.
-        return self.client.search(
+    def search(
+        self,
+        vector: list[float],
+        top_k: int,
+    ) -> list[models.ScoredPoint]:
+        response = self.client.query_points(
             collection_name=self.collection,
-            query_vector=vector,
+            query=vector,
             limit=top_k,
             with_payload=True,
         )
 
+        return response.points
 
-@lru_cache
+
+@lru_cache(maxsize=1)
 def get_store() -> VectorStore:
-    s = get_settings()
-    return VectorStore(s.qdrant_url, s.qdrant_collection)
+    """Return the normal PyMuPDF-backed collection used by Levels 1 and 2."""
+    settings = get_settings()
+
+    return VectorStore(
+        url=settings.qdrant_url,
+        collection=settings.qdrant_collection,
+    )
+
+
+@lru_cache(maxsize=1)
+def get_table_store() -> VectorStore:
+    """Return the separate pdfplumber table collection used only by Level 3.
+
+    This function is not called by normal ingestion or by the existing
+    Level-1/2 `retrieve()` function.
+    """
+    settings = get_settings()
+
+    return VectorStore(
+        url=settings.qdrant_url,
+        collection=f"{settings.qdrant_collection}_tables",
+    )

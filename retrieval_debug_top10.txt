@@ -1,0 +1,201 @@
+app-1  |    Building fourth-turn @ file:///app
+app-1  | Downloading ruff (10.4MiB)
+app-1  |       Built fourth-turn @ file:///app
+app-1  |  Downloaded ruff
+app-1  | Uninstalled 2 packages in 4ms
+app-1  | Installed 3 packages in 301ms
+app-1  | Bytecode compiled 15654 files in 928ms
+app-1  | INFO:     Started server process [60]
+app-1  | INFO:     Waiting for application startup.
+app-1  | INFO:     Application startup complete.
+app-1  | INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+app-1  | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+app-1  | Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights: 100%|██████████| 391/391 [00:00<00:00, 10034.47it/s]
+app-1  | INFO:     Retrieval query | history_messages=0 | original='What problems can intense competitive forces create for an organisation?' | candidate='What problems can intense competitive forces create for an organisation?' | rewritten='What problems can intense competitive forces create for an organisation?' | repaired=False
+app-1  | /app/.venv/lib/python3.12/site-packages/qdrant_client/qdrant_remote.py:282: UserWarning: Qdrant client version 1.18.0 is incompatible with server version 1.12.4. Major versions should match and minor version difference must not exceed 1. Set check_compatibility=False to skip version check.
+app-1  |   show_warning(
+app-1  | 
+app-1  | RETRIEVED CONTEXT 1
+app-1  | PAGE: 22
+app-1  | SCORE: 0.8221
+app-1  | TEXT: In particular, this result implies that the focus on traditional rigid cost-focused measures (Cadez & Guilding, 2012; Nimtrakoon & Tayles, 2015) will have a detrimental impact on organisational performance by limiting the ability of organisations to cope with intense competitive forces in a way which enhances their organisational performance through product differentiation. If competitive forces are less intense (i.e. low force), then it is inap­ propriate to use contemporary management accounting practices to a greater extent, given that such practices negatively moderate the effect of competitive forces on competitive advantage.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 2
+app-1  | PAGE: 21
+app-1  | SCORE: 0.8206
+app-1  | TEXT: The effect of Porter’s competitive forces on competitive advantage and… 323 Specifically, the intensity of competitive forces exhibits a positive association with organisational performance and competitive advantage in the overall sample model, with organisational performance in the low-cost/high-force model and with both organisational performance and competitive advantage in the product differentiation/ high-force models. Such findings are in line with the literature which maintains that greater competi­ tive intensity focuses manager’s attention on using their resources in a way which alleviates the pressures from the forces and enables them to achieve higher competi­ tive advantage and performance (Han et al., 1998; Kohli & Jaworski, 1990). Future studies can examine this relationship further to focus on the potential for organisa­ tions to utilise competitive forces in a way which enhances their competitive advan­ tage and/or organisational performance and to explore the manner in which such benefits transpire.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 3
+app-1  | PAGE: 22
+app-1  | SCORE: 0.8144
+app-1  | TEXT: high-force), with such forces exhibiting a positive moderating effect on organisational performance. At the same time, they should not be focusing on using traditional management accounting practices given the negative moderating effect of such practices on the association between the inten­ sity of competitive forces and organisational performance. In particular, this result implies that the focus on traditional rigid cost-focused measures (Cadez & Guilding, 2012; Nimtrakoon & Tayles, 2015) will have a detrimental impact on organisational performance by limiting the ability of organisations to cope with intense competitive forces in a way which enhances their organisational performance through product differentiation.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 4
+app-1  | PAGE: 5
+app-1  | SCORE: 0.8107
+app-1  | TEXT: Greater rivalry or competition among organisations competing in an industry inhibits an organisation’s ability to achieve a competitive advantage. At the same time, such competition can inhibit profitability as organisations attempt to gain an edge through price discounting or introducing new products, enhancing after-sales service, and/or advertising campaigns (Porter, 2008), all of which increase costs. Similarly, when there is a high threat of substitutes, organisations are forced to incur extra costs in an attempt to distinguish their products from others through product enhancements and/or marketing campaigns, while their ability to influence selling prices is limited.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 5
+app-1  | PAGE: 2
+app-1  | SCORE: 0.8103
+app-1  | TEXT: Carle et al., 2005; Rajasekar & Al Raee, 2013; Zhao et al., 2016) and to assess the competitiveness and profitability of specific industries and/or organisations. However, this research has tended to be qualitative in nature and emphasised case study analysis, with the limited empirical studies which have considered the effect of Porter’s competitive forces on organisational outcomes (Barba-Sánchez et al., 2018) finding that stronger competitive forces inhibit corpo­ rate performance. The first objective of this study is to contribute to this literature by examining the association between the collective strength of the five competitive forces, referred to in this study as the intensity of competitive forces, and the two organisational outcomes commonly associated with Porter’s competitive forces: organisational per­ formance and competitive advantage (Marin-Cadavid & Garcia, 2016; Porter, 2008).
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 6
+app-1  | PAGE: 6
+app-1  | SCORE: 0.8080
+app-1  | TEXT: the intensity of competitive forces). Specifically, we propose that the ability of organisations to cope with the intensity of competitive 2 While the literature suggests a negative association, as the empirical examination of such associations is in its infancy, these hypotheses are somewhat exploratory. 1 3
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 7
+app-1  | PAGE: 6
+app-1  | SCORE: 0.8064
+app-1  | TEXT: 308 K. Baird et al. intensity of competitive forces is negatively associated with organisational perfor­ mance and competitive advantage2.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 8
+app-1  | PAGE: 21
+app-1  | SCORE: 0.8063
+app-1  | TEXT: Alternatively, while the extent of the use of tra­ ditional management accounting practices (i.e. Capital Budgeting, Standard Cost­ ing, Variance Analysis and Return on Investment) positively moderated the effect of the intensity of competitive forces on competitive advantage in the overall model, it was found to negatively moderate the effect of the intensity of competitive forces on organisational performance in the product-differentiation/high-force model. These findings contribute to the literature by providing an empirical insight into the theoretical role of a specific internal mechanism, the extent of use of manage­ ment accounting practices, in managing the effects of competitive forces within an organisation.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 9
+app-1  | PAGE: 2
+app-1  | SCORE: 0.8037
+app-1  | TEXT: 1 Introduction Michael Porter’s (1979) ‘How competitive forces shape strategy’ has influenced the field of research on competitive forces and the formation and effectiveness of strate­ gies within organisations. Porter (1979) famously claimed that five forces shape the competitive environment of an organisation: the threat of new entrants, the bargain­ ing power of suppliers, the bargaining power of buyers, rivalry among existing com­ petitors, and the threat of substitute products or services. These five forces combine to shape the industry structure and influence the way organisations compete within an industry, with organisations tending to emphasise Porter’s (1985) cost focus (i.e.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 10
+app-1  | PAGE: 20
+app-1  | SCORE: 0.8021
+app-1  | TEXT: 5 Discussion and conclusion This study sought to provide empirical insights into the effect of the intensity of competitive forces on the two organisational outcomes commonly associated with Porter’s (1979) competitive forces, organisational performance and competitive advantage (Marin-Cadavid & Garcia, 2016; Porter, 2008). The findings highlight the positive effect of the intensity of competitive forces on organisational outcomes. 1 3
+app-1  | 
+app-1  | INFO:     192.168.65.1:46577 - "POST /query HTTP/1.1" 200 OK
+app-1  | INFO:     Retrieval query | history_messages=2 | original='Why does that happen?' | candidate='Why do intense competitive forces cause inhibited advantage, profitability issues, and cost burden from substitutes?' | rewritten='Why do intense competitive forces cause inhibited advantage, profitability issues, and cost burden from substitutes?' | repaired=False
+app-1  | 
+app-1  | RETRIEVED CONTEXT 1
+app-1  | PAGE: 5
+app-1  | SCORE: 0.8251
+app-1  | TEXT: Greater rivalry or competition among organisations competing in an industry inhibits an organisation’s ability to achieve a competitive advantage. At the same time, such competition can inhibit profitability as organisations attempt to gain an edge through price discounting or introducing new products, enhancing after-sales service, and/or advertising campaigns (Porter, 2008), all of which increase costs. Similarly, when there is a high threat of substitutes, organisations are forced to incur extra costs in an attempt to distinguish their products from others through product enhancements and/or marketing campaigns, while their ability to influence selling prices is limited.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 2
+app-1  | PAGE: 5
+app-1  | SCORE: 0.8153
+app-1  | TEXT: Similarly, when there is a high threat of substitutes, organisations are forced to incur extra costs in an attempt to distinguish their products from others through product enhancements and/or marketing campaigns, while their ability to influence selling prices is limited. Porter (1979) maintained that these five forces, characterising the overall industry structure, determine the attractiveness of an industry or sector. In particular, as all five forces are expected to have a detrimental effect on the profitability and competi­ tiveness of an industry and individual organisations, it is expected that greater com­ petitive intensity will limit the potential to obtain such benefits (Barba-Sánchez et al., 2018).
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 3
+app-1  | PAGE: 22
+app-1  | SCORE: 0.8109
+app-1  | TEXT: In particular, this result implies that the focus on traditional rigid cost-focused measures (Cadez & Guilding, 2012; Nimtrakoon & Tayles, 2015) will have a detrimental impact on organisational performance by limiting the ability of organisations to cope with intense competitive forces in a way which enhances their organisational performance through product differentiation. If competitive forces are less intense (i.e. low force), then it is inap­ propriate to use contemporary management accounting practices to a greater extent, given that such practices negatively moderate the effect of competitive forces on competitive advantage.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 4
+app-1  | PAGE: 5
+app-1  | SCORE: 0.8099
+app-1  | TEXT: Each of the five forces (threat of new entrants, bargaining power of suppliers, bargaining power of buyers, rivalry among existing competitors, and threat of substitutes) is expected to influence organisational performance, specifically a measure of overall performance including profitability, product and employee performance, and competitive advan­ tage, reflecting the relative performance compared to its competitors in areas of prof­ itability and market share (Schilke, 2014). The threat of new entrants “puts pressure on prices, costs, and the rate of invest­ ment required to compete” (Porter, 2008, p. 80).
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 5
+app-1  | PAGE: 2
+app-1  | SCORE: 0.8089
+app-1  | TEXT: Carle et al., 2005; Rajasekar & Al Raee, 2013; Zhao et al., 2016) and to assess the competitiveness and profitability of specific industries and/or organisations. However, this research has tended to be qualitative in nature and emphasised case study analysis, with the limited empirical studies which have considered the effect of Porter’s competitive forces on organisational outcomes (Barba-Sánchez et al., 2018) finding that stronger competitive forces inhibit corpo­ rate performance. The first objective of this study is to contribute to this literature by examining the association between the collective strength of the five competitive forces, referred to in this study as the intensity of competitive forces, and the two organisational outcomes commonly associated with Porter’s competitive forces: organisational per­ formance and competitive advantage (Marin-Cadavid & Garcia, 2016; Porter, 2008).
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 6
+app-1  | PAGE: 5
+app-1  | SCORE: 0.8081
+app-1  | TEXT: In particular, as all five forces are expected to have a detrimental effect on the profitability and competi­ tiveness of an industry and individual organisations, it is expected that greater com­ petitive intensity will limit the potential to obtain such benefits (Barba-Sánchez et al., 2018). Similarly, Porter (2008) maintains that the intensity of competitive forces makes it difficult to earn returns on investments. Therefore, we hypothesise that the 1 3
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 7
+app-1  | PAGE: 21
+app-1  | SCORE: 0.8002
+app-1  | TEXT: The effect of Porter’s competitive forces on competitive advantage and… 323 Specifically, the intensity of competitive forces exhibits a positive association with organisational performance and competitive advantage in the overall sample model, with organisational performance in the low-cost/high-force model and with both organisational performance and competitive advantage in the product differentiation/ high-force models. Such findings are in line with the literature which maintains that greater competi­ tive intensity focuses manager’s attention on using their resources in a way which alleviates the pressures from the forces and enables them to achieve higher competi­ tive advantage and performance (Han et al., 1998; Kohli & Jaworski, 1990). Future studies can examine this relationship further to focus on the potential for organisa­ tions to utilise competitive forces in a way which enhances their competitive advan­ tage and/or organisational performance and to explore the manner in which such benefits transpire.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 8
+app-1  | PAGE: 5
+app-1  | SCORE: 0.7995
+app-1  | TEXT: With respect to buyers, powerful buyers “can cap­ ture more value by forcing down prices, demanding better quality or more service (thereby driving up costs)…… all at the expense of industry profitability” (Porter, 2008, p. 83). Greater rivalry or competition among organisations competing in an industry inhibits an organisation’s ability to achieve a competitive advantage.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 9
+app-1  | PAGE: 19
+app-1  | SCORE: 0.7959
+app-1  | TEXT: The effect of Porter’s competitive forces on competitive advantage and… 321 4.1.1 Additional exploratory analysis Additional exploratory analysis was undertaken to examine the hypothesised relationships for organisations adopting different strategies and experiencing different levels of inten­ sity of competitive forces. In respect to the intensity of competitive forces, we divided the respondents into two categories: those who experienced high (low) intensity of competi­ tive forces based on whether their intensity of competitive forces was above (below) the mean score (3.99) for this variable. In respect to strategy, we compared the mean scores for the low-cost and product differentiation strategy measures, classifying organisations as predominantly focusing on the specific strategy that they reported the highest mean score for; that is, if the highest (lowest) mean score was reported with respect to the low- cost strategy, then they were classified as employing a low-cost (product-differentiation) strategy.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 10
+app-1  | PAGE: 20
+app-1  | SCORE: 0.7952
+app-1  | TEXT: goodness-of-fit scores and provide additional unique insights into the hypothesised relationships. For instance, additional support is provided for the rejection of H1a in the low-cost/high-force and product differentiation/high-force models, where the intensity of competitive forces is also significantly positively associated with organ­ isational performance [(β = 0.624, p = 0.012); (β = 0.723, p = 0.002)]. Further support is also provided for the rejection of H1b in the product differentiation/high-force model where the intensity of competitive forces is significantly positively associated with competitive advantage (β = 0.702, p = 0.000).
+app-1  | 
+app-1  | INFO:     192.168.65.1:36384 - "POST /query HTTP/1.1" 200 OK
+app-1  | INFO:     Retrieval query | history_messages=4 | original='And how is it solved?' | candidate='How can organizations mitigate the problems caused by intense competitive forces?' | rewritten='How can organizations mitigate the problems caused by intense competitive forces?' | repaired=False
+app-1  | 
+app-1  | RETRIEVED CONTEXT 1
+app-1  | PAGE: 22
+app-1  | SCORE: 0.8196
+app-1  | TEXT: In particular, this result implies that the focus on traditional rigid cost-focused measures (Cadez & Guilding, 2012; Nimtrakoon & Tayles, 2015) will have a detrimental impact on organisational performance by limiting the ability of organisations to cope with intense competitive forces in a way which enhances their organisational performance through product differentiation. If competitive forces are less intense (i.e. low force), then it is inap­ propriate to use contemporary management accounting practices to a greater extent, given that such practices negatively moderate the effect of competitive forces on competitive advantage.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 2
+app-1  | PAGE: 22
+app-1  | SCORE: 0.8105
+app-1  | TEXT: high-force), with such forces exhibiting a positive moderating effect on organisational performance. At the same time, they should not be focusing on using traditional management accounting practices given the negative moderating effect of such practices on the association between the inten­ sity of competitive forces and organisational performance. In particular, this result implies that the focus on traditional rigid cost-focused measures (Cadez & Guilding, 2012; Nimtrakoon & Tayles, 2015) will have a detrimental impact on organisational performance by limiting the ability of organisations to cope with intense competitive forces in a way which enhances their organisational performance through product differentiation.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 3
+app-1  | PAGE: 21
+app-1  | SCORE: 0.8040
+app-1  | TEXT: The effect of Porter’s competitive forces on competitive advantage and… 323 Specifically, the intensity of competitive forces exhibits a positive association with organisational performance and competitive advantage in the overall sample model, with organisational performance in the low-cost/high-force model and with both organisational performance and competitive advantage in the product differentiation/ high-force models. Such findings are in line with the literature which maintains that greater competi­ tive intensity focuses manager’s attention on using their resources in a way which alleviates the pressures from the forces and enables them to achieve higher competi­ tive advantage and performance (Han et al., 1998; Kohli & Jaworski, 1990). Future studies can examine this relationship further to focus on the potential for organisa­ tions to utilise competitive forces in a way which enhances their competitive advan­ tage and/or organisational performance and to explore the manner in which such benefits transpire.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 4
+app-1  | PAGE: 22
+app-1  | SCORE: 0.8030
+app-1  | TEXT: and the intensity of the competitive forces they face (low or high). For instance, for managers whose organisations utilise a low-cost strategy, it is recommended that they use contemporary management accounting practices if the forces are more intense (i.e. high force), with the extent of use of the package of four contemporary man­ agement accounting practices exhibiting a positive moderating role on competitive advantage.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 5
+app-1  | PAGE: 22
+app-1  | SCORE: 0.8010
+app-1  | TEXT: high force), with the extent of use of the package of four contemporary man­ agement accounting practices exhibiting a positive moderating role on competitive advantage. Managers whose organisations utilise a product-differentiation strategy should employ contemporary management accounting practices to a greater extent when the competitive forces are more intense (i.e. high-force), with such forces exhibiting a positive moderating effect on organisational performance.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 6
+app-1  | PAGE: 18
+app-1  | SCORE: 0.8001
+app-1  | TEXT: The unexpected positive associations suggest that the threats posed by the five forces serve to focus managers’ attention on the reconfiguration and recombina­ tion of their firms’ resources and capabilities in a way which neutralizes the effects of these forces, thereby facilitating the achievement of competitive advantage and higher organisational performance. Past research here provides support for the notion that management proactively and consciously make decisions which alleviate the pressures from the competitive forces in a way which achieves higher performance. For example, managers and firms develop specific market orientations, i.e.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 7
+app-1  | PAGE: 6
+app-1  | SCORE: 0.7977
+app-1  | TEXT: the intensity of competitive forces). Specifically, we propose that the ability of organisations to cope with the intensity of competitive 2 While the literature suggests a negative association, as the empirical examination of such associations is in its infancy, these hypotheses are somewhat exploratory. 1 3
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 8
+app-1  | PAGE: 21
+app-1  | SCORE: 0.7967
+app-1  | TEXT: Alternatively, while the extent of the use of tra­ ditional management accounting practices (i.e. Capital Budgeting, Standard Cost­ ing, Variance Analysis and Return on Investment) positively moderated the effect of the intensity of competitive forces on competitive advantage in the overall model, it was found to negatively moderate the effect of the intensity of competitive forces on organisational performance in the product-differentiation/high-force model. These findings contribute to the literature by providing an empirical insight into the theoretical role of a specific internal mechanism, the extent of use of manage­ ment accounting practices, in managing the effects of competitive forces within an organisation.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 9
+app-1  | PAGE: 22
+app-1  | SCORE: 0.7952
+app-1  | TEXT: the combination of their prevailing strategy (low-cost or product-differentiation) and the intensity of the com­ petitive forces (high or low) they face. Such findings provide an important initial empirical insight into the role of internal control mechanisms in coping with competi­ tive forces, thereby highlighting the potential for future research to consider the role of alternative internal mechanisms, such as formal and informal control practices, in moderating the association between competitive forces and organisational outcomes. This study is subject to the usual limitations associated with the survey method, including the inability to assert causation and common method bias.
+app-1  | 
+app-1  | 
+app-1  | RETRIEVED CONTEXT 10
+app-1  | PAGE: 6
+app-1  | SCORE: 0.7903
+app-1  | TEXT: 308 K. Baird et al. intensity of competitive forces is negatively associated with organisational perfor­ mance and competitive advantage2.
+app-1  | 
+app-1  | INFO:     192.168.65.1:60308 - "POST /query HTTP/1.1" 200 OK
